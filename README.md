@@ -1,2 +1,1 @@
-# PrepCourse-HenryDefinitivo
-Este es el repositorio definitivo del PrepCourse de Henry
+Este proyecto es una prueba de como clonar un repositorio desde github a mi computadora.
